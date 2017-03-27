@@ -8,6 +8,10 @@
     <artifactId>ddp-develop-sdk</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <name>${project.groupId}:${project.artifactId}</name>
+    <description>DDP Develop Library</description>
+    <url>https://github.com/Yangtongjie/ddp-develop-sdk</url>
+         
     <dependencies>
         <dependency>
             <groupId>org.apache.spark</groupId>
